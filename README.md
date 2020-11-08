@@ -5,8 +5,8 @@
 
 <br/><br/>
 
-# [Numerical Methods - Python](https://github.com/jmfinnegan12/1Dtransport)
-### 1-D Solute Transport Model
+# Numerical Methods - Python
+## [1-D Solute Transport Model](https://github.com/jmfinnegan12/1Dtransport)
 #### Groundwater Modeling, Tufts University
 - built models for 1-D solute transport in porous medium using python
 - Crank-Nicholson centered finite difference scheme
@@ -15,14 +15,14 @@
 ![](/images/comparison_D_1_t400.png)
 
 # Text Recognition and Processing - Python
-### PDF Table Reader
+## PDF Table Reader
 #### Independent project to improve productivity at work
 - built a program to scrape tables from PDF documents
 - converts tables to pandas dataframe, excel, or csv
 - saved hours preventing the need to manually transcribe tables
 image
 
-### PDF Highlighter
+## PDF Highlighter
 #### Independent project to improve productivity at work
 - built a program to highlight text on a PDF with over 3,000 labels
 - provides accurate, up to date production tracking for a $1.8 million project
@@ -30,7 +30,7 @@ image
 
 
 # GIS
-### Avalanche Risk Analysis - Rocky Mountain National Park
+## Avalanche Risk Analysis - Rocky Mountain National Park
 #### Geological Applications of GIS, Tufts University
 - Synthesized publically available datasets
 - Created a comprehensive risk analysis using GIS methods including raster analysis, reclassification, and intersection
@@ -38,10 +38,10 @@ image
 image
 
 # Numerical Methods - MATLAB
-### Fluid Flow Around an Airfoil Simulation
+## Fluid Flow Around an Airfoil Simulation
 #### Numerical Methods, Tufts University
 image
 
-### Mount Washington Weather Analysis
+## Mount Washington Weather Analysis
 #### Computing in Engineering, Tufts University
 image
