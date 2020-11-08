@@ -1,7 +1,7 @@
 # Jim Finnegan
 [jmfinnegan12@gmail.com](mailto:jmfinnegan12@gmail.com?subject=GitHub%20Portfolio)
 
-#### I have a background in civil engineering and earth science, and I am passionate about statistics and data science. I built on my introductory undergraduate computer science courses with self-teaching and independent projects that are showcased in this portfolio. I implement computational skills, data analysis and visualization, and numerical methods using Python, MATLAB, and ArcGIS. I am always working on building new skills and tackling exciting new projects
+#### I am passionate about statistics and data science, particularly their applications to my undergraduate background: engineering and earth science. I built on my introductory undergraduate computer science courses with self-teaching and independent projects that are showcased in this portfolio. I implement computational skills, data analysis and visualization, and numerical methods using Python, MATLAB, and ArcGIS. I am always working on building new skills and tackling exciting new projects
 
 
 # [1-D Solute Transport Model](https://github.com/jmfinnegan12/1Dtransport)
