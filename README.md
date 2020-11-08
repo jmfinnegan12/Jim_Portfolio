@@ -1,5 +1,6 @@
 # Jim Finnegan
-### email: [jmfinnegan12@gmail.com](mailto:jmfinnegan12@gmail.com?subject=GitHub%20Portfolio)
+email: [jmfinnegan12@gmail.com](mailto:jmfinnegan12@gmail.com?subject=GitHub%20Portfolio)
+
 ## I am a geotechnical engineer with a passion for statistics and data science. I built on my introductory undergraduate computer courses with self-teaching and independent projects that are showcased in this portfolio
 
 
