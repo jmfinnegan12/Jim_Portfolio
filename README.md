@@ -1,6 +1,6 @@
 # Jim Finnegan
 computer project portfolio
-email: [jmfinnegan12@gmail.com](mailto:jmfinnegan12@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+email: [jmfinnegan12@gmail.com](mailto:jmfinnegan12@gmail.com?subject=GitHub%20Portfolio)
 
 # [Project 1: 1-D Transport Model](https://github.com/jmfinnegan12/1Dtransport)
 ## Final Project, EOS-288: Groundwater Modeling, Tufts University
