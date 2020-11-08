@@ -11,7 +11,7 @@
 - Galerkin finite element method 
 - Compared the models to the analytical solution for various initial conditions and parameters
 
-image
+![alt text](https://github.com/jmfinnegan12/Jim_Portfolio/blob/main/images/comparison_D_1_t400.png)
 
 # PDF table reader
 
