@@ -3,7 +3,7 @@
 
 #### I am passionate about statistics and data science, particularly their applications to my undergraduate background: engineering and earth science. I built on my introductory undergraduate computer science courses with self-teaching and independent projects that are showcased in this portfolio. I implement computational skills and numerical methods using Python, MATLAB, and ArcGIS. I have taught myself statistical and computer skills including data scraping, object oriented programming, and data anlysis and visualization. I am always working on building new skills and tackling exciting new projects
 
-<br/><br/>
+<br/><br/><br/>
 
 # Numerical Methods - Python
 ## [1-D Solute Transport Model](https://github.com/jmfinnegan12/1Dtransport)
@@ -13,6 +13,8 @@
 - Galerkin finite element method 
 - Compared the models to the analytical solution for various initial conditions and parameters
 ![](/images/comparison_D_1_t400.png)
+
+<br/>
 
 # Text Recognition and Processing - Python
 ## PDF Table Reader
@@ -28,6 +30,7 @@ image
 - provides accurate, up to date production tracking for a $1.8 million project
 image
 
+<br/>
 
 # GIS
 ## Avalanche Risk Analysis - Rocky Mountain National Park
@@ -36,6 +39,8 @@ image
 - Created a comprehensive risk analysis using GIS methods including raster analysis, reclassification, and intersection
 - Reached the final round of 20 out of over 250 posters in Tufts University GIS poster session
 image
+
+<br/>
 
 # Numerical Methods - MATLAB
 ## Fluid Flow Around an Airfoil Simulation
