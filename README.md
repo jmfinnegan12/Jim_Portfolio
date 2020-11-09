@@ -33,9 +33,9 @@ image
 <br/>
 
 # GIS
-## Avalanche Risk Analysis - Rocky Mountain National Park
+## Avalanche Risk Analysis
 #### Geological Applications of GIS, Tufts University
-- Synthesized publically available datasets
+- Synthesized several publically available datasets
 - Created a comprehensive risk analysis using GIS methods including raster analysis, reclassification, and intersection
 - Reached the final round of 20 out of over 250 posters in Tufts University GIS poster session
 image
