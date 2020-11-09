@@ -32,7 +32,7 @@ image
 
 <br/>
 
-# GIS
+# GIS - ArcMAP
 ## Avalanche Risk Analysis
 #### Geological Applications of GIS, Tufts University
 - Synthesized several publically available datasets
