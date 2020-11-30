@@ -18,7 +18,7 @@
 
 # Text Recognition and Processing - Python
 #### Independent projects to improve productivity at work
-[full repo](https://github.com/jmfinnegan12/pdf/blob/main/README.md)
+[full repo](https://github.com/jmfinnegan12/pdf)
 ## [PDF Table Reader](https://github.com/jmfinnegan12/pdf/blob/main/TableReader_finalized.ipynb)
 - built a program to scrape tables from PDF documents
 - converts tables to pandas dataframe, excel, or csv
@@ -32,12 +32,12 @@
 <br/>
 
 # GIS - ArcMAP
-## Avalanche Risk Analysis
+## [Avalanche Risk Analysis](https://github.com/jmfinnegan12/avalanche)
 #### Geological Applications of GIS, Tufts University
 - Synthesized several publically available datasets
 - Created a comprehensive risk analysis using GIS methods including raster analysis, reclassification, and intersection
 - Reached the final round of 20 out of over 250 posters in Tufts University GIS poster session
-image
+![alt text](https://github.com/jmfinnegan12/avalanche/blob/main/generalized%20risk%20map.PNG)
 
 <br/>
 
