@@ -17,19 +17,17 @@
 <br/>
 
 # Text Recognition and Processing - Python
+#### Independent projects to improve productivity at work
 [full repo](https://github.com/jmfinnegan12/pdf/blob/main/README.md)
 ## [PDF Table Reader](https://github.com/jmfinnegan12/pdf/blob/main/TableReader_finalized.ipynb)
-#### Independent project to improve productivity at work
 - built a program to scrape tables from PDF documents
 - converts tables to pandas dataframe, excel, or csv
-- saved hours preventing the need to manually transcribe tables
-image
+- saved hours preventing the need to manually transcribe tables--possibility for future expansion and industry-disrupting results
+
 
 ## [PDF Highlighter](https://github.com/jmfinnegan12/pdf/blob/main/PDF%20Highlight.ipynb)
-#### Independent project to improve productivity at work
 - built a program to highlight text on a PDF with over 3,000 labels
 - provides accurate, up to date production tracking for a $1.8 million project
-image
 
 <br/>
 
