@@ -17,7 +17,7 @@
 <br/>
 
 # Text Recognition and Processing - Python
-[summary](https://github.com/jmfinnegan12/pdf/blob/main/README.md)
+[full repo](https://github.com/jmfinnegan12/pdf/blob/main/README.md)
 ## [PDF Table Reader](https://github.com/jmfinnegan12/pdf/blob/main/TableReader_finalized.ipynb)
 #### Independent project to improve productivity at work
 - built a program to scrape tables from PDF documents
