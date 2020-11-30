@@ -34,9 +34,9 @@
 # GIS - ArcMAP
 ## [Avalanche Risk Analysis](https://github.com/jmfinnegan12/avalanche)
 #### Geological Applications of GIS, Tufts University
+- Reached the final round of 20 out of over 250 posters in Tufts University GIS poster session
 - Synthesized several publically available datasets
 - Created a comprehensive risk analysis using GIS methods including raster analysis, reclassification, and intersection
-- Reached the final round of 20 out of over 250 posters in Tufts University GIS poster session
 ![](/images/generalized%20risk%20map.PNG)
 
 <br/>
