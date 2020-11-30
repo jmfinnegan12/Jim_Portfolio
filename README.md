@@ -37,6 +37,7 @@
 - Reached the final round of 20 out of over 250 posters in Tufts University GIS poster session
 - Synthesized several publically available datasets
 - Created a comprehensive risk analysis using GIS methods including raster analysis, reclassification, and intersection
+<br/>
 ![](/images/generalized%20risk%20map.PNG)
 
 <br/>
