@@ -48,6 +48,3 @@ This program models the flow of a fluid with a constant horizontal velocity arou
 ![](/images/Streamlines.PNG)
 ![](/images/Surface%20Fit%20Plots.PNG)
 
-## Mount Washington Weather Analysis
-#### Computing in Engineering, Tufts University
-image
