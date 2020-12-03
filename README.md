@@ -37,7 +37,6 @@
 - Reached the final round of 20 out of over 250 posters in Tufts University GIS poster session
 - Synthesized several publically available datasets
 - Created a comprehensive risk analysis using GIS methods including raster analysis, reclassification, and intersection
-<br/> 
 ![](/images/risk_map.PNG)
 
 <br/>
@@ -46,9 +45,6 @@
 ## [Fluid Flow Around an Airfoil Simulation](https://github.com/jmfinnegan12/fluid-flow)
 #### Numerical Methods, Tufts University
 This program models the flow of a fluid with a constant horizontal velocity around a symmetrical airfoil using MATLAB. The script takes a streamline matrix defined in Microsoft Excel and calculates the horizontal velocity, vertical velocity, and total velocity of the fluid using discrete and regression methods. It also uses plots to display streamlines visually.
-
-
-
 ![](/images/Streamlines.PNG)
 ![](/images/Surface%20Fit%20Plots.PNG)
 
