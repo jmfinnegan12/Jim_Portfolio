@@ -43,9 +43,14 @@
 <br/>
 
 # Numerical Methods - MATLAB
-## Fluid Flow Around an Airfoil Simulation
+## [Fluid Flow Around an Airfoil Simulation](https://github.com/jmfinnegan12/fluid-flow)
 #### Numerical Methods, Tufts University
-image
+This program models the flow of a fluid with a constant horizontal velocity around a symmetrical airfoil using MATLAB. The script takes a streamline matrix defined in Microsoft Excel and calculates the horizontal velocity, vertical velocity, and total velocity of the fluid using discrete and regression methods. It also uses plots to display streamlines visually.
+
+
+
+![](/images/Streamlines.PNG)
+![](/images/Surface%20Fit%20Plots.PNG)
 
 ## Mount Washington Weather Analysis
 #### Computing in Engineering, Tufts University
