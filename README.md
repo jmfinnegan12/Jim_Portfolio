@@ -27,7 +27,7 @@
 
 ## [PDF Highlighter](https://github.com/jmfinnegan12/pdf/blob/main/PDF%20Highlight.ipynb)
 - built a program to highlight text on a PDF with over 3,000 labels
-- provides accurate, up to date production tracking for a $1.8 million project
+- provides accurate, up to date production tracking for two projects, each worth $1.8 million
 
 <br/>
 
@@ -37,8 +37,8 @@
 - Reached the final round of 20 out of over 250 posters in Tufts University GIS poster session
 - Synthesized several publically available datasets
 - Created a comprehensive risk analysis using GIS methods including raster analysis, reclassification, and intersection
-<br/>
-![](/images/generalized%20risk%20map.PNG)
+<br/> 
+![](/images/risk_map.PNG)
 
 <br/>
 
