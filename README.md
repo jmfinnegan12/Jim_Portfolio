@@ -18,7 +18,7 @@
 #### Independent Project
 - Retrieved stock market data from Yahoo Finanace API
 - Modified open source technical indicators library to add features to data
-- Building back tester to test and implement various investing strategies
+- Building back tester to test and implement various ML-powered investing strategies
 
 <br/>
 
