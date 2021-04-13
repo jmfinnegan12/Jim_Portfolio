@@ -1,9 +1,18 @@
 # Jim Finnegan
 [finnegan.jim@yahoo.com](mailto:finnegan.jim@yahoo.com?subject=GitHub%20Portfolio) | [LinkedIn](https://www.linkedin.com/in/james-m-finnegan/)
 
-#### I am passionate about statistics and data science, particularly their applications to finance, earth science, and engineering. I built on my introductory undergraduate computer science courses with self-teaching and independent projects that are showcased in this portfolio. I implement computational skills and numerical methods using Python, MATLAB, and ArcGIS. I have taught myself statistical and computer skills including data scraping, object oriented programming, data anlysis, visualization, and machine learning. I am always working on building new skills and tackling exciting new projects
+#### I am passionate about statistics and data science, particularly their applications to finance, earth science, and engineering. I built on my introductory undergraduate computer science courses with self-teaching and independent projects that are showcased in this portfolio. I implement computational skills and numerical methods using Python, MATLAB, and ArcGIS. I have taught myself statistical and computer skills including data scraping, object oriented programming, data anlysis, visualization, and machine learning. I am always working on building new skills and tackling exciting new projects.
 
 <br/><br/><br/>
+
+# Data Scraping and Analysis - Python
+## ['ESPN FPI Model'](https://github.com/jmfinnegan12/FPI-Scrape)
+#### Independent Project
+- built a web scraper for two separate pages on ESPN.com
+- calculated implied winning probabilities for football games based on data
+- analyzed sports betting markets with implied probabilities to suggest statistically favorable bets
+
+<br/>
 
 # Numerical Methods - Python
 ## [1-D Solute Transport Model](https://github.com/jmfinnegan12/1Dtransport)
