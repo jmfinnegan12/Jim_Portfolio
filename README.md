@@ -6,12 +6,69 @@
 <br/><br/><br/>
 
 # Data Scraping and Analysis - Python
-## [ESPN FPI Model](https://github.com/jmfinnegan12/FPI-Scrape)
+## [ESPN FPI Model](https://github.com/jmfinnegan12/FPI-Scrape)  
+
 #### Independent Project
 - built a web scraper for two separate pages on ESPN.com
 - calculated implied winning probabilities for football games based on data
 - analyzed sports betting markets with implied probabilities to suggest statistically favorable bets
 
+
+<details><summary>View some sample code</summary>
+<p>
+  
+```python
+# up to date FPI function
+# returns pandas dataframe with current FPI table
+
+def getFPI():
+    url = 'https://www.espn.com/nfl/fpi'
+    r = requests.get(url)
+    html = r.text
+    
+    # ESPN splits the FPI table into two sides
+    
+    # put the left table (team names) into a pandas dataframe    
+    soup = BeautifulSoup(html)
+    table1 = soup.find('table', {"class": "Table Table--align-right Table--fixed Table--fixed-left"})
+    rows = table1.find_all('tr')
+    teams_data = []
+    for row in rows[2:]:
+        cols = row.find_all('td')
+        cols = [element.text.strip() for element in cols]
+        teams_data.append([element for element in cols if element])   
+
+    teams_df = pd.DataFrame(teams_data)
+    
+    # put the right side table (FPI and other stats) into a pandas dataframe
+    table2 = soup.find('table', {"class": "Table Table--align-right"})
+    rows = table2.find_all('tr')
+    stats_data = []
+    for row in rows[2:]:
+        cols = row.find_all('td')
+        cols = [element.text.strip() for element in cols]
+        stats_data.append([element for element in cols if element])   
+
+    stats_df = pd.DataFrame(stats_data)
+    
+    # combine into one dataframe and update headings
+    df = pd.merge(teams_df, stats_df, left_index=True, right_index=True)
+    headers = {'0_x': 'TEAM', 
+               '0_y': 'W-L', 
+               1 : 'FPI', 
+               2: 'RK', 
+               3: 'TRND', 
+               4: 'OFF', 
+               5: 'DEF', 
+               6: 'ST', 
+               7: 'SOS', 
+               8: 'REM_SOS', 
+               9: 'AVG_WP'}
+    df = df.rename(index=str,columns=headers)
+    return df
+```
+</p>
+</details>
 <br/>
 
 # Numerical Methods - Python
