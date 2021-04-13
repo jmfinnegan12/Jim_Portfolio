@@ -17,8 +17,7 @@
 <br/>
 
 # Text Recognition and Processing - Python
-#### Independent projects to improve productivity at work
-[full repo](https://github.com/jmfinnegan12/pdf)
+#### Independent projects to improve productivity at work -- [full repo](https://github.com/jmfinnegan12/pdf)
 ## [PDF Table Reader](https://github.com/jmfinnegan12/pdf/blob/main/TableReader_finalized.ipynb)
 - built a program to scrape tables from PDF documents
 - converts tables to pandas dataframe, excel, or csv
