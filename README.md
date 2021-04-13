@@ -78,15 +78,6 @@ def getFPI():
 - Visualized results  
 ![](https://github.com/jmfinnegan12/Monte-Carlo/blob/main/Photos/GamblersFallacy%20Dist.PNG)
 
-# Numerical Methods - Python
-## [1-D Solute Transport Model](https://github.com/jmfinnegan12/1Dtransport)
-#### Groundwater Modeling, Tufts University
-- built models for 1-D solute transport in porous medium using python
-- Crank-Nicholson centered finite difference scheme
-- Galerkin finite element method 
-- Compared the models to the analytical solution for various initial conditions and parameters
-![](/images/comparison_D_1_t400.png)
-
 <br/>
 
 # Text Recognition and Processing - Python
@@ -96,10 +87,21 @@ def getFPI():
 - converts tables to pandas dataframe, excel, or csv
 - saved hours preventing the need to manually transcribe tables--possibility for future expansion and industry-disrupting results
 
-
 ## [PDF Highlighter](https://github.com/jmfinnegan12/pdf/blob/main/PDF%20Highlight.ipynb)
 - built a program to highlight text on a PDF with over 3,000 labels
 - provides accurate, up to date production tracking for two projects, each worth $1.8 million
+
+
+<br/>
+
+# Numerical Methods - Python
+## [1-D Solute Transport Model](https://github.com/jmfinnegan12/1Dtransport)
+#### Groundwater Modeling, Tufts University
+- built models for 1-D solute transport in porous medium using python
+- Crank-Nicholson centered finite difference scheme
+- Galerkin finite element method 
+- Compared the models to the analytical solution for various initial conditions and parameters
+![](/images/comparison_D_1_t400.png)
 
 <br/>
 
