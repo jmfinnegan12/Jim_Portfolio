@@ -6,7 +6,7 @@
 <br/><br/><br/>
 
 # Data Scraping and Analysis - Python
-## ['ESPN FPI Model'](https://github.com/jmfinnegan12/FPI-Scrape)
+## [ESPN FPI Model](https://github.com/jmfinnegan12/FPI-Scrape)
 #### Independent Project
 - built a web scraper for two separate pages on ESPN.com
 - calculated implied winning probabilities for football games based on data
