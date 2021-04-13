@@ -6,8 +6,7 @@
 <br/><br/><br/>
 
 # Data Scraping and Analysis - Python
-## [ESPN FPI Model](https://github.com/jmfinnegan12/FPI-Scrape)  
-
+## [ESPN FPI Model](https://github.com/jmfinnegan12/FPI-Scrape)
 #### Independent Project
 - built a web scraper for two separate pages on ESPN.com
 - calculated implied winning probabilities for football games based on data
@@ -70,6 +69,14 @@ def getFPI():
 </p>
 </details>
 <br/>
+
+# Object Oriented Programming, Statistical Simulation - Python
+## [Monte Carlo Simulation](https://github.com/jmfinnegan12/Monte-Carlo)
+#### Independent Project
+- Simulated a roulette spin using object oriented programming
+- Ran statistical simulation on numerical trials
+- Visualized results
+![](https://github.com/jmfinnegan12/Monte-Carlo/blob/main/Photos/GamblersFallacy%20Dist.PNG)
 
 # Numerical Methods - Python
 ## [1-D Solute Transport Model](https://github.com/jmfinnegan12/1Dtransport)
