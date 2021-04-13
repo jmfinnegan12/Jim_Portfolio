@@ -1,5 +1,5 @@
 # Jim Finnegan
-[jmfinnegan12@gmail.com](mailto:jmfinnegan12@gmail.com?subject=GitHub%20Portfolio) | [LinkedIn](https://www.linkedin.com/in/james-m-finnegan/)
+[finnegan.jim@yahoo.com](mailto:finnegan.jim@yahoo.com?subject=GitHub%20Portfolio) | [LinkedIn](https://www.linkedin.com/in/james-m-finnegan/)
 
 #### I am passionate about statistics and data science, particularly their applications to finance, earth science, and engineering. I built on my introductory undergraduate computer science courses with self-teaching and independent projects that are showcased in this portfolio. I implement computational skills and numerical methods using Python, MATLAB, and ArcGIS. I have taught myself statistical and computer skills including data scraping, object oriented programming, data anlysis, visualization, and machine learning. I am always working on building new skills and tackling exciting new projects
 
