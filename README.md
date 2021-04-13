@@ -5,6 +5,23 @@
 
 <br/><br/><br/>
 
+# Supervised Learning - Python
+## [Predicting Loan Defaults](https://github.com/jmfinnegan12/Loan-default)
+#### Independent Project
+- Performed exploratory data analysis, visualization, and feature engineering
+- Building predictive models for loan defaults
+
+<br/>
+
+# Time Series Analysis - Python
+## [Stock Market Data Analysis](https://github.com/jmfinnegan12/Stocks)
+#### Independent Project
+- Retrieved stock market data from Yahoo Finanace API
+- Modified open source technical indicators library to add features to data
+- Building back tester to test and implement various investing strategies
+
+<br/>
+
 # Data Scraping and Analysis - Python
 ## [ESPN FPI Model](https://github.com/jmfinnegan12/FPI-Scrape)
 #### Independent Project
