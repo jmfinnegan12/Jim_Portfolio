@@ -75,7 +75,7 @@ def getFPI():
 #### Independent Project
 - Simulated a roulette spin using object oriented programming
 - Ran statistical simulation on numerical trials
-- Visualized results
+- Visualized results  
 ![](https://github.com/jmfinnegan12/Monte-Carlo/blob/main/Photos/GamblersFallacy%20Dist.PNG)
 
 # Numerical Methods - Python
