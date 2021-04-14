@@ -9,7 +9,9 @@
 ## [Predicting Loan Defaults](https://github.com/jmfinnegan12/Loan-default)
 #### Independent Project
 - Performed exploratory data analysis, visualization, and feature engineering
-- Building predictive models for loan defaults
+- Used k-nearest-neighbors model to predict loan defaults with up to 97% mean accuracy score
+- Comparing other classification models  
+![](https://github.com/jmfinnegan12/Loan-default/blob/main/Photos/KNN%20model%20complexity.PNG)
 
 <br/>
 
@@ -18,7 +20,8 @@
 #### Independent Project
 - Retrieved stock market data from Yahoo Finanace API
 - Modified open source technical indicators library to add features to data
-- Building back tester to test and implement various ML-powered investing strategies
+- Next goal is to build back tester to test and implement various ML-powered investing strategies  
+![](https://github.com/jmfinnegan12/Stocks/blob/master/Photos/Market%20Candle.PNG)
 
 <br/>
 
