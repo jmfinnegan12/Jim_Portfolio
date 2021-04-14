@@ -32,7 +32,8 @@
 - calculated implied winning probabilities for football games based on data
 - analyzed sports betting markets with implied probabilities to suggest statistically favorable bets  
 <br/>
-Some sample code:
+Some sample code:  
+
 ```python
 # up to date FPI function
 # returns pandas dataframe with current FPI table
