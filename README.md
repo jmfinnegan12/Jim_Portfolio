@@ -30,12 +30,9 @@
 #### Independent Project
 - built a web scraper for two separate pages on ESPN.com
 - calculated implied winning probabilities for football games based on data
-- analyzed sports betting markets with implied probabilities to suggest statistically favorable bets
-
-
-<details><summary>View some sample code</summary>
-<p>
-  
+- analyzed sports betting markets with implied probabilities to suggest statistically favorable bets  
+<br/>
+Some sample code:
 ```python
 # up to date FPI function
 # returns pandas dataframe with current FPI table
@@ -86,9 +83,6 @@ def getFPI():
     df = df.rename(index=str,columns=headers)
     return df
 ```
-</p>
-</details>
-<br/>
 
 # Object Oriented Programming, Statistical Simulation - Python
 ### [Monte Carlo Simulation](https://github.com/jmfinnegan12/Monte-Carlo)
