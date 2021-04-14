@@ -6,7 +6,7 @@
 <br/><br/><br/>
 
 # Supervised Learning - Python
-## [Predicting Loan Defaults](https://github.com/jmfinnegan12/Loan-default)
+### [Predicting Loan Defaults](https://github.com/jmfinnegan12/Loan-default)
 #### Independent Project
 - Performed exploratory data analysis, visualization, and feature engineering
 - Used k-nearest-neighbors model to predict loan defaults with up to 97% mean accuracy score
@@ -16,7 +16,7 @@
 <br/>
 
 # Time Series Analysis - Python
-## [Stock Market Data Analysis](https://github.com/jmfinnegan12/Stocks)
+### [Stock Market Data Analysis](https://github.com/jmfinnegan12/Stocks)
 #### Independent Project
 - Retrieved stock market data from Yahoo Finanace API
 - Modified open source technical indicators library to add features to data
@@ -26,7 +26,7 @@
 <br/>
 
 # Data Scraping and Analysis - Python
-## [ESPN FPI Model](https://github.com/jmfinnegan12/FPI-Scrape)
+### [ESPN FPI Model](https://github.com/jmfinnegan12/FPI-Scrape)
 #### Independent Project
 - built a web scraper for two separate pages on ESPN.com
 - calculated implied winning probabilities for football games based on data
@@ -91,7 +91,7 @@ def getFPI():
 <br/>
 
 # Object Oriented Programming, Statistical Simulation - Python
-## [Monte Carlo Simulation](https://github.com/jmfinnegan12/Monte-Carlo)
+### [Monte Carlo Simulation](https://github.com/jmfinnegan12/Monte-Carlo)
 #### Independent Project
 - Simulated a roulette spin using object oriented programming
 - Ran statistical simulation on numerical trials
@@ -102,12 +102,12 @@ def getFPI():
 
 # Text Recognition and Processing - Python
 #### Independent projects to improve productivity at work -- [full repo](https://github.com/jmfinnegan12/pdf)
-## [PDF Table Reader](https://github.com/jmfinnegan12/pdf/blob/main/TableReader_finalized.ipynb)
+### [PDF Table Reader](https://github.com/jmfinnegan12/pdf/blob/main/TableReader_finalized.ipynb)
 - built a program to scrape tables from PDF documents
 - converts tables to pandas dataframe, excel, or csv
 - saved hours preventing the need to manually transcribe tables--possibility for future expansion and industry-disrupting results
 
-## [PDF Highlighter](https://github.com/jmfinnegan12/pdf/blob/main/PDF%20Highlight.ipynb)
+### [PDF Highlighter](https://github.com/jmfinnegan12/pdf/blob/main/PDF%20Highlight.ipynb)
 - built a program to highlight text on a PDF with over 3,000 labels
 - provides accurate, up to date production tracking for two projects, each worth $1.8 million
 
@@ -115,7 +115,7 @@ def getFPI():
 <br/>
 
 # Numerical Methods - Python
-## [1-D Solute Transport Model](https://github.com/jmfinnegan12/1Dtransport)
+### [1-D Solute Transport Model](https://github.com/jmfinnegan12/1Dtransport)
 #### Groundwater Modeling, Tufts University
 - built models for 1-D solute transport in porous medium using python
 - Crank-Nicholson centered finite difference scheme
@@ -126,7 +126,7 @@ def getFPI():
 <br/>
 
 # GIS - ArcMAP
-## [Avalanche Risk Analysis](https://github.com/jmfinnegan12/avalanche)
+### [Avalanche Risk Analysis](https://github.com/jmfinnegan12/avalanche)
 #### Geological Applications of GIS, Tufts University
 - Reached the final round of 20 out of over 250 posters in Tufts University GIS poster session
 - Synthesized several publically available datasets
@@ -136,7 +136,7 @@ def getFPI():
 <br/>
 
 # Numerical Methods - MATLAB
-## [Fluid Flow Around an Airfoil Simulation](https://github.com/jmfinnegan12/fluid-flow)
+### [Fluid Flow Around an Airfoil Simulation](https://github.com/jmfinnegan12/fluid-flow)
 #### Numerical Methods, Tufts University
 This program models the flow of a fluid with a constant horizontal velocity around a symmetrical airfoil using MATLAB. The script takes a streamline matrix defined in Microsoft Excel and calculates the horizontal velocity, vertical velocity, and total velocity of the fluid using discrete and regression methods. It also uses plots to display streamlines visually.
 ![](/images/Streamlines.PNG)
