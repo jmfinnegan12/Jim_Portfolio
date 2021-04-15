@@ -26,7 +26,7 @@
 # Data Scraping and Analysis - Python
 ### [ESPN FPI Model](https://github.com/jmfinnegan12/FPI-Scrape)
 #### Independent Project
-- built a web scraper for two separate pages on ESPN.com
+- built a web scraper for two separate pages on ESPN.com using pandas `read_html` and `Beautiful Soup`
 - calculated implied winning probabilities for football games based on data
 - analyzed sports betting markets with implied probabilities to suggest statistically favorable bets  
 <br/>
