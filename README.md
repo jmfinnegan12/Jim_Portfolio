@@ -1,7 +1,7 @@
 # Jim Finnegan
 [finnegan.jim@yahoo.com](mailto:finnegan.jim@yahoo.com?subject=GitHub%20Portfolio) | [LinkedIn](https://www.linkedin.com/in/james-m-finnegan/)
 
-<br/><br/>
+<br/>
 
 # Supervised Learning - Python
 ### [Predicting Loan Defaults](https://github.com/jmfinnegan12/Loan-default)
