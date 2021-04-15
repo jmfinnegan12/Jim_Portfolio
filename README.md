@@ -1,8 +1,6 @@
 # Jim Finnegan
 [finnegan.jim@yahoo.com](mailto:finnegan.jim@yahoo.com?subject=GitHub%20Portfolio) | [LinkedIn](https://www.linkedin.com/in/james-m-finnegan/)
 
-<br/>
-
 # Supervised Learning - Python
 ### [Predicting Loan Defaults](https://github.com/jmfinnegan12/Loan-default)
 #### Independent Project
@@ -10,17 +8,6 @@
 - Used k-nearest-neighbors model to predict loan defaults with up to 97% mean accuracy score
 - Comparing other classification models  
 ![](./images/KNN%20model%20complexity.PNG)
-
-<br/>
-
-# Time Series Analysis - Python
-### [Stock Market Data Analysis](https://github.com/jmfinnegan12/Stocks)
-#### Independent Project
-- Retrieved stock market data from Yahoo Finanace API
-- Modified open source technical indicators library to add features to data
-- Next goal is to build back tester to test and implement various ML-powered investing strategies  
-![](./images/Market%20Candle.PNG)
-
 <br/>
 
 # Data Scraping and Analysis - Python
@@ -31,7 +18,6 @@
 - analyzed sports betting markets with implied probabilities to suggest statistically favorable bets  
 <br/>
 
-
 # Object Oriented Programming, Statistical Simulation - Python
 ### [Monte Carlo Simulation](https://github.com/jmfinnegan12/Monte-Carlo)
 #### Independent Project
@@ -39,7 +25,15 @@
 - Ran statistical simulation on numerical trials
 - Visualized results  
 ![](./images/GamblersFallacy%20Dist.PNG)
+<br/>
 
+# Time Series Analysis (In Progress) - Python
+### [Stock Market Data Analysis](https://github.com/jmfinnegan12/Stocks)
+#### Independent Project
+- Retrieved stock market data from Yahoo Finanace API
+- Modified open source technical indicators library to add features to data
+- Next goal is to build back tester to test and implement various ML-powered investing strategies  
+![](./images/Market%20Candle.PNG)
 <br/>
 
 # Text Recognition and Processing - Python
@@ -52,8 +46,6 @@
 ### [PDF Highlighter](https://github.com/jmfinnegan12/pdf/blob/main/PDF%20Highlight.ipynb)
 - built a program to highlight text on a PDF with over 3,000 labels
 - provides accurate, up to date production tracking for two projects, each worth $1.8 million
-
-
 <br/>
 
 # Numerical Methods - Python
@@ -64,7 +56,6 @@
 - Galerkin finite element method 
 - Compared the models to the analytical solution for various initial conditions and parameters
 ![](/images/comparison_D_1_t400.png)
-
 <br/>
 
 # GIS - ArcMAP
@@ -74,7 +65,6 @@
 - Synthesized several publically available datasets
 - Created a comprehensive risk analysis using GIS methods including raster analysis, reclassification, and intersection
 ![](/images/risk_map.PNG)
-
 <br/>
 
 # Numerical Methods - MATLAB
