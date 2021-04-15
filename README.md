@@ -9,7 +9,7 @@
 - Performed exploratory data analysis, visualization, and feature engineering
 - Used k-nearest-neighbors model to predict loan defaults with up to 97% mean accuracy score
 - Comparing other classification models  
-![](/images/KNN%20model%20complexity.PNG)
+![](./images/KNN%20model%20complexity.PNG)
 
 <br/>
 
@@ -19,7 +19,7 @@
 - Retrieved stock market data from Yahoo Finanace API
 - Modified open source technical indicators library to add features to data
 - Next goal is to build back tester to test and implement various ML-powered investing strategies  
-![](/images/Market%20Candle.PNG)
+![](./images/Market%20Candle.PNG)
 
 <br/>
 
@@ -38,7 +38,7 @@
 - Simulated a roulette spin using object oriented programming
 - Ran statistical simulation on numerical trials
 - Visualized results  
-![](/images/GamblersFallacy%20Dist.PNG)
+![](./images/GamblersFallacy%20Dist.PNG)
 
 <br/>
 
