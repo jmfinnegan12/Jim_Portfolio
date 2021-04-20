@@ -4,9 +4,16 @@
 # Supervised Learning, Classification - Python
 ### [Predicting Loan Defaults](https://github.com/jmfinnegan12/Loan-default)
 #### Independent Project
-- Performed exploratory data analysis, visualization, and feature engineering
-- Used k-nearest-neighbors model to predict loan defaults with up to 97% mean accuracy score
-- Comparing other classification models  
+- Performed exploratory data analysis, visualization, data cleaning, and feature engineering
+- Compared several classification models and their accuracy to a base case model
+- Models include: 
+  - K Nearest Neighbors
+  - Linear Classification: Logistic Regression, Ridge Classifier, Stochastic Gradient Descent
+  - Support Vector Machines: Support Vector Classifier, Linear SVC
+  - Gaussian Process Classifier
+  - Naive Bayes Classifier
+  - Decision Tree
+- Learned about each of the models' algorithms, advantages, and disadvantages  
 ![](./images/KNN%20model%20complexity.PNG)
 <br/>
 
