@@ -4,9 +4,9 @@
 # Supervised Learning, Classification - Python
 ### [Predicting Loan Defaults](https://github.com/jmfinnegan12/Loan-default)
 #### Independent Project
-- Performed exploratory data analysis, visualization, data cleaning, and feature engineering
-- Compared several classification models and their accuracy to a base case model
-- Models include: 
+- Performed exploratory data analysis, visualization, data cleaning, and feature engineering  
+![](./images/Pearson%20Corr.PNG)  
+- Implemented and compared several classification models including:
   - K Nearest Neighbors
   - Linear Classification: Logistic Regression, Ridge Classifier, Stochastic Gradient Descent
   - Support Vector Machines: Support Vector Classifier, Linear SVC
