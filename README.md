@@ -1,7 +1,7 @@
 # Jim Finnegan
 [finnegan.jim@yahoo.com](mailto:finnegan.jim@yahoo.com?subject=GitHub%20Portfolio) | [LinkedIn](https://www.linkedin.com/in/james-m-finnegan/)
 
-# Supervised Learning - Python
+# Supervised Learning, Classification - Python
 ### [Predicting Loan Defaults](https://github.com/jmfinnegan12/Loan-default)
 #### Independent Project
 - Performed exploratory data analysis, visualization, and feature engineering
