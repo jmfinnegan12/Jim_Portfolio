@@ -46,21 +46,23 @@
 # Text Recognition and Processing - Python
 #### Independent projects to improve productivity at work -- [full repo](https://github.com/jmfinnegan12/pdf)
 ### [PDF Table Reader](https://github.com/jmfinnegan12/pdf/blob/main/TableReader_finalized.ipynb)
-- built a program to scrape tables from PDF documents
-- converts tables to pandas dataframe, excel, or csv
-- saved hours preventing the need to manually transcribe tables--possibility for future expansion and industry-disrupting results
+- Built a program to scrape tables from PDF documents using `camelot-py`
+- Converted tables to pandas dataframe, excel, or csv
+- Saved hours preventing the need to manually transcribe tables--possibility for future expansion and industry-disrupting results
+- Implemented a user interface to select files using `tkinter`
 
 ### [PDF Highlighter](https://github.com/jmfinnegan12/pdf/blob/main/PDF%20Highlight.ipynb)
-- built a program to highlight text on a PDF with over 3,000 labels
-- provides accurate, up to date production tracking for two projects, each worth $1.8 million
+- Built a program to highlight text on a PDF with over 3,000 labels
+- Provided accurate, up to date production tracking for two projects, each worth $1.8 million
+- Implemented a user interface to select files using `tkinter`
 <br/>
 
 # Numerical Methods - Python
 ### [1-D Solute Transport Model](https://github.com/jmfinnegan12/1Dtransport)
 #### Groundwater Modeling, Tufts University
-- built models for 1-D solute transport in porous medium using python
-- Crank-Nicholson centered finite difference scheme
-- Galerkin finite element method 
+- Built models for 1-D solute transport in porous medium using python
+  - Crank-Nicholson centered finite difference scheme
+  - Galerkin finite element method 
 - Compared the models to the analytical solution for various initial conditions and parameters
 ![](/images/comparison_D_1_t400.png)
 <br/>
